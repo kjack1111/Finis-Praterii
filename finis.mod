@@ -1,5 +1,5 @@
 ﻿name="Finis Praeterii"
-path="mod/finis/"
+path="mod/Finis-Praterii/"
 tags={
 	"Alternative History"
 	"Events"
