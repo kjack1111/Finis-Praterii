@@ -1,0 +1,19 @@
+state={
+	id=286
+	name="STATE_286"
+	provinces={
+		1785 3187 3508 6169 6530 9082 9531 10715 11062 11083
+	}
+	manpower=255271
+	history = {
+		owner = ACT
+		add_core_of = ACT
+		buildings = {
+			infrastructure = 1
+		}
+
+	}
+
+	state_category = town
+	buildings_max_level_factor=1.000
+}

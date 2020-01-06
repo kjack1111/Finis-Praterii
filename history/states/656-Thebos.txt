@@ -1,0 +1,21 @@
+
+state={
+	id=656
+	name="STATE_656"
+
+	history = {
+		owner = STH
+		add_core_of = STH
+		buildings = {
+			infrastructure = 1
+		}
+
+	}
+
+	provinces={
+		4279 12129 13176
+	}
+	manpower=101600
+	buildings_max_level_factor=1.000
+	state_category=small_island
+}

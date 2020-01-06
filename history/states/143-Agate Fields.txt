@@ -1,0 +1,24 @@
+
+state={
+	id=143
+	name="STATE_143"
+	resources={
+		oil=14.000
+	}
+
+	history = {
+		owner = CHT
+		add_core_of = CHT
+		buildings = {
+			infrastructure = 1
+		}
+
+	}
+
+	provinces={
+		304 331 386 3072 6197 7968 9516 11358
+	}
+	manpower=190840
+	buildings_max_level_factor=1.000
+	state_category=town
+}

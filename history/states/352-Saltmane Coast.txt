@@ -1,0 +1,18 @@
+state={
+	id=352
+	name="STATE_352"
+	provinces={
+		405 495 564 6535 9509 11388 11431
+	}
+	history = {
+		owner = THT
+		add_core_of = THT
+		buildings = {
+			infrastructure = 1
+		}
+
+	}
+	manpower=175400
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

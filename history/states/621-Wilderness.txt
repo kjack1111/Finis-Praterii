@@ -1,0 +1,18 @@
+state={
+	id=621
+	name="STATE_621"
+	provinces={
+		2044 4644 7593 7930 10077 12207 12891
+	}
+	state_category = rural
+	history = {
+		owner = RIR
+		add_core_of = RIR
+		buildings = {
+			infrastructure = 1
+		}
+
+	}
+	manpower=645678
+	buildings_max_level_factor=1.000
+}

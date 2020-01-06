@@ -1,0 +1,22 @@
+state={
+	id=362
+	name="STATE_362"
+	resources={
+		steel=18.000
+		crystals=12.000
+	}
+	provinces={
+		78 829 6194 8085 10923
+	}
+	state_category = metropolis
+	history = {
+		owner = GPN
+		add_core_of = GPN
+		buildings = {
+			infrastructure = 1
+		}
+
+	}
+	manpower=2523450
+	buildings_max_level_factor=1.000
+}

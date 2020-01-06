@@ -1,0 +1,24 @@
+
+state={
+	id=608
+	name="STATE_608"
+	resources={
+		steel=12.000
+	}
+
+	history = {
+		owner = EVI
+		add_core_of = EVI
+		buildings = {
+			infrastructure = 1
+		}
+
+	}
+
+	provinces={
+		1945 3320 4908 4977 7920 7935 8003 8012 10765 10853
+	}
+	manpower=756900
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

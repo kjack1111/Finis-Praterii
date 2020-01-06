@@ -1,0 +1,22 @@
+state={
+	id=649
+	name="STATE_649"
+	provinces={
+		1784 4379 4817 7696 7738 10137 10309 10592 10703 12517 12574 12602 13233
+	}
+	state_category = city
+	resources={
+		steel=6.000
+		oil=15.000
+	}
+	history = {
+		owner = RIR
+		add_core_of = RIR
+		buildings = {
+			infrastructure = 1
+		}
+
+	}
+	manpower=1568101
+	buildings_max_level_factor=1.000
+}

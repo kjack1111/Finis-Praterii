@@ -1,0 +1,22 @@
+state={
+	id=77
+	name="STATE_77"
+	state_category = wasteland
+	resources={
+		crystals = 42
+	}
+	history = {
+		owner = YKT
+		add_core_of = YKT
+		buildings = {
+			infrastructure = 1
+		}
+
+	}
+
+	provinces={
+		831 1881 3285 4402 4527 4540 6696 7615 10586 11277 11309 11656
+	}
+	manpower=15600
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,19 @@
+state={
+	id=252
+	name="STATE_252"
+	provinces={
+		134 860 1485 1615 1782 3073 3732 7583 9074 10909 11096 11509
+	}
+	manpower=3150087
+	history = {
+		owner = CHT
+		add_core_of = CHT
+		buildings = {
+			infrastructure = 1
+		}
+
+	}
+
+	state_category = metropolis
+	buildings_max_level_factor=1.900
+}

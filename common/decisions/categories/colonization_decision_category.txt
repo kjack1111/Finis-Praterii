@@ -1,0 +1,11 @@
+colonize_territory = {
+	icon = griffon
+	allowed = {
+		NOT = {
+			has_idea = tribal_wasteland_nuclear
+		}
+	}
+	priority = {
+		base = 0
+	}
+}

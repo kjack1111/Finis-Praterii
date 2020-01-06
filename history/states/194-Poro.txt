@@ -1,0 +1,21 @@
+
+state={
+	id=194
+	name="STATE_194"
+
+	history = {
+		owner = DRT
+		add_core_of = DRT
+		buildings = {
+			infrastructure = 1
+		}
+
+	}
+
+	provinces={
+		806 3889 6950 11746 
+	}
+	manpower=738270
+	buildings_max_level_factor=1.000
+	state_category=city
+}

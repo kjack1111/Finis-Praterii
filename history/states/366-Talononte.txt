@@ -1,0 +1,22 @@
+state={
+	id=366
+	name="STATE_366"
+	resources={
+		aluminium=16.000
+		steel = 4.000
+	}
+	provinces={
+		1086 4088 4369 4888 7107 7151 7193 11448 11984 12815
+	}
+	state_category = city
+	history = {
+		owner = GPN
+		add_core_of = GPN
+		buildings = {
+			infrastructure = 1
+		}
+
+	}
+	manpower=1267500
+	buildings_max_level_factor=1.000
+}

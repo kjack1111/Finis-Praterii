@@ -1,0 +1,18 @@
+state={
+	id=676
+	name="STATE_676"
+	provinces={
+		7114
+	}
+	state_category = tiny_island
+	history = {
+		owner = CNT
+		add_core_of = CNT
+		buildings = {
+			infrastructure = 1
+		}
+
+	}
+	manpower=1492
+	buildings_max_level_factor=1.000
+}

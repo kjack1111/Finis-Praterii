@@ -1,0 +1,20 @@
+
+state={
+	id=5
+	name="STATE_5"
+	state_category = rural
+
+	history = {
+		owner = UIT
+		add_core_of = UIT
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	
+	provinces={
+		770 3509 3534 3782 11721 11730
+	}
+	manpower=5320
+	buildings_max_level_factor=1.000
+}

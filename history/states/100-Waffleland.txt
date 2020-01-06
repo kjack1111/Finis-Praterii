@@ -1,0 +1,21 @@
+
+state={
+	id=100
+	name="STATE_100"
+
+	history = {
+		owner = BFT
+		add_core_of = BFT
+		buildings = {
+			infrastructure = 1
+		}
+
+	}
+
+	provinces={
+		693 696 1373 3192 3295 3351 3709 3846 6711 10225 10294 11176 11350 11595 12184 12212 12415 13012
+	}
+	manpower=361400
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

@@ -1,0 +1,20 @@
+
+state={
+	id=432
+	name="STATE_432"
+
+	history = {
+		owner = CLB
+		add_core_of = CLB
+		buildings = {
+			infrastructure = 1
+		}
+
+	}
+	provinces={
+		94 170 1066 1153 1497 2102 3867 4185 6021 6029 6096 7007 7054 9217 10349 10645 10867 12552 12684 12720
+	}
+	manpower=670566
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

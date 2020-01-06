@@ -1,0 +1,18 @@
+state={
+	id=473
+	name="STATE_473"
+	provinces={
+		3099 5050 6112 6119 6190 9043 9222
+	}
+	state_category = town
+	history = {
+		owner = AQT
+		add_core_of = AQT
+		buildings = {
+			infrastructure = 1
+		}
+
+	}
+	manpower=450607
+	buildings_max_level_factor=1.000
+}

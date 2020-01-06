@@ -1,0 +1,18 @@
+state={
+	id=514
+	name="STATE_514"
+	provinces={
+		1316 7344
+	}
+	state_category = small_island
+	history = {
+		owner = EVI
+		add_core_of = EVI
+		buildings = {
+			infrastructure = 1
+		}
+
+	}
+	manpower=102567
+	buildings_max_level_factor=1.000
+}

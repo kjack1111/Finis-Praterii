@@ -1,0 +1,21 @@
+
+state={
+	id=62
+	name="STATE_62"
+
+	history = {
+		owner = ACT
+		add_core_of = ACT
+		buildings = {
+			infrastructure = 1
+		}
+
+	}
+
+	provinces={
+		4775 13094
+	}
+	manpower=43577
+	buildings_max_level_factor=1.000
+	state_category=small_island
+}

@@ -1,0 +1,18 @@
+state={
+	id=469
+	name="STATE_469"
+	state_category = small_island
+	provinces={
+		2222 5226 10201 10325
+	}
+	history = {
+		owner = STH
+		add_core_of = STH
+		buildings = {
+			infrastructure = 1
+		}
+
+	}
+	manpower=124505
+	buildings_max_level_factor=1.000
+}

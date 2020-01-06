@@ -1,0 +1,18 @@
+state={
+	id=378
+	name="STATE_378"
+	provinces={
+		1405 4072 4353 6342 7119 10019 10872 12686
+	}
+	manpower=1275600
+	state_category = city
+	history = {
+		owner = AQT
+		add_core_of = AQT
+		buildings = {
+			infrastructure = 1
+		}
+
+	}
+	buildings_max_level_factor=1.000
+}

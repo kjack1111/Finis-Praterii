@@ -1,0 +1,18 @@
+state={
+	id=385
+	name="STATE_385"
+	provinces={
+		1348 3475 4341 4367 4405 7572 7633 10207 10250 12109
+	}
+	state_category = city
+	history = {
+		owner = EVI
+		add_core_of = EVI
+		buildings = {
+			infrastructure = 1
+		}
+
+	}
+	manpower=976005
+	buildings_max_level_factor=1.000
+}

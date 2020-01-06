@@ -1,0 +1,18 @@
+state={
+	id=381
+	name="STATE_381"
+	state_category = metropolis
+	provinces={
+		12882
+	}
+	manpower=3904005
+	history = {
+		owner = HRZ
+		add_core_of = HRZ
+		buildings = {
+			infrastructure = 1
+		}
+
+	}
+	buildings_max_level_factor=1.000
+}

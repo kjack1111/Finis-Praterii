@@ -1,0 +1,19 @@
+state={
+	id=281
+	name="STATE_281"
+	provinces={
+		214 378 3030 6316 9181 9235 9278 9311 9356 11217 11362 13103
+	}
+	manpower=902800
+	history = {
+		owner = ACT
+		add_core_of = ACT
+		buildings = {
+			infrastructure = 1
+		}
+
+	}
+
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

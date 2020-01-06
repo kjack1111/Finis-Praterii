@@ -1,0 +1,24 @@
+
+state={
+	id=325
+	name="STATE_325"
+	resources={
+		oil=8.000
+	}
+
+	history = {
+		owner = ACT
+		add_core_of = ACT
+		buildings = {
+			infrastructure = 1
+		}
+
+	}
+
+	provinces={
+		4305 12801 12929 13115 13215
+	}
+	manpower=938700
+	buildings_max_level_factor=1.000
+	state_category=city
+}

@@ -1,0 +1,20 @@
+state={
+	id=72
+	name="STATE_72"
+	state_category = rural
+
+	history = {
+		owner = PET
+		add_core_of = PET
+		buildings = {
+			infrastructure = 1
+		}
+
+	}
+
+	provinces={
+		765 775 3765 4903 4992 5035 6741 6781 9677 9709 9742 9744 11729
+	}
+	manpower=244200
+	buildings_max_level_factor=1.000
+}

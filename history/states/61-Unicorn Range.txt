@@ -1,0 +1,24 @@
+state={
+	id=61
+	name="STATE_61"
+	state_category = pastoral
+	resources = {
+		chromium = 6
+		steel = 12
+	}
+
+	history = {
+		owner = EAT
+		add_core_of = EAT
+		buildings = {
+			infrastructure = 1
+		}
+
+	}
+
+	provinces={
+		501 522 3455 3492 3520 3557 3856 3927 6543 9929 11462 11796
+	}
+	manpower=15831
+	buildings_max_level_factor=1.000
+}

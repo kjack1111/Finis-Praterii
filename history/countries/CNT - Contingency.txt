@@ -1,0 +1,70 @@
+﻿capital = 485
+oob = "EVI_1007"
+set_research_slots = 1
+
+set_technology = {
+	melee_weapons1 = 1
+	pre_gw_artillery = 1
+}
+
+actually_fix_weapon_techs = yes #THIS HAS TO BE CALLED IN EVERY HISTORY FILE RIGHT AFTER MAIN set_technology!
+if = {
+	limit = { not = { has_dlc = "Man the Guns" } }
+	set_technology = {
+	}
+}
+if = {
+	limit = { has_dlc = "Man the Guns" }
+	set_technology = {
+	}
+}
+
+set_convoys = 0
+set_popularities = {
+	democratic = 0
+	fascism = 0
+	communism = 0
+	neutrality = 0
+	statist = 50
+	reconstructionist = 50
+	borean = 0
+	ladean = 0
+	evilianan = 0
+	eyrite = 0
+	maarite = 0
+	arcturian = 0
+}
+
+set_politics = {
+
+	ruling_party = reconstructionist
+	last_election = "1000.10.10"
+	election_frequency = 36
+	elections_allowed = no
+}
+
+add_ideas = {
+	disarmed_nation
+	detached_country
+	civilian_economy
+	closed_economy
+	poor_science_base
+}
+
+add_political_power = 0
+army_experience = 0
+set_stability = 0.0
+
+create_country_leader = {
+	name = "Disperse Tribal Rule"
+	desc = "DISPERSE_TRIBAL_RULE_DESC"
+	picture = "gfx/leaders/tribal/Decentralized.tga"
+	expire = "1965.1.1"
+	ideology = reconstructionist_system
+	traits = {
+	}
+}
+
+set_rule = {
+	can_generate_female_aces = yes
+}

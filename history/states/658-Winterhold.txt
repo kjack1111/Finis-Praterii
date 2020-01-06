@@ -1,0 +1,18 @@
+state={
+	id=658
+	name="STATE_658"
+	provinces={
+		7673 10522 9215 12302 4652 8360
+	}
+	state_category = pastoral
+	history = {
+		owner = ACT
+		add_core_of = ACT
+		buildings = {
+			infrastructure = 1
+		}
+
+	}
+	manpower=105670
+	buildings_max_level_factor=3.000
+}

@@ -1,0 +1,19 @@
+
+state={
+	id=377
+	name="STATE_377"
+	provinces={
+		106 174 3164 3220 6056 6097 11086 11099
+	}
+	state_category = large_city
+	history = {
+		owner = AQT
+		add_core_of = AQT
+		buildings = {
+			infrastructure = 1
+		}
+
+	}
+	manpower=2405609
+	buildings_max_level_factor=1.000
+}

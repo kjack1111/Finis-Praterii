@@ -1,0 +1,19 @@
+state={
+	id=76
+	name="STATE_76"
+	state_category = large_city
+
+	history = {
+		owner = DRT
+		add_core_of = DRT
+		buildings = {
+			infrastructure = 1
+		}
+
+	}
+	provinces={
+		3712 3715 3775 3906 3917 4417 7345 7433 9864 10174 10320 11567
+	}
+	manpower=2854900
+	buildings_max_level_factor=1.000
+}

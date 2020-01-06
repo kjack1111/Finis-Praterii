@@ -1,0 +1,20 @@
+
+state={
+	id=436
+	name="STATE_436"
+
+	history = {
+		owner = RSS
+		add_core_of = RSS
+		buildings = {
+			infrastructure = 0
+		}
+
+	}
+	provinces={
+		1986 2039 2070 2101 4812 4891 5075 10628 10631 10782 12761 12774 12895 13082
+	}
+	manpower=319500
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

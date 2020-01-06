@@ -1,0 +1,23 @@
+state={
+	id=629
+	name="STATE_629"
+	provinces={
+		4883 4995 5079 8062 8133 10801 12799 12854 13227
+	}
+	resources={
+		tungsten=5.000
+		steel=4.000
+		aluminium=5.000
+	}
+	state_category = rural
+	history = {
+		owner = RIR
+		add_core_of = RIR
+		buildings = {
+			infrastructure = 1
+		}
+
+	}
+	manpower=78038
+	buildings_max_level_factor=1.000
+}

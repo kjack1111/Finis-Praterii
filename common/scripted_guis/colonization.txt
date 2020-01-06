@@ -1,0 +1,43 @@
+scripted_gui = {
+	colonization = {
+		parent_window_name = "countrystateview"
+		window_name = "colonization_interface"
+		context_type = selected_state_context
+		
+		visible = { always = yes }
+		
+		effects = {
+			colonize_state_click = {
+				ROOT = {
+					transfer_state = PREV
+					add_state_core = PREV
+					add_political_power = -25
+					add_manpower -25
+				}
+			}
+		}
+		
+		triggers = {
+			colonize_state_click_enabled = {
+				ROOT = {
+					NOT = {
+						has_idea = tribal_wasteland_nuclear
+					}
+					has_political_power > 24
+					has_manpower > 24
+				}
+				
+				PREV = {
+					any_neighbor_state = {
+						any_neighbor_state = {
+							is_owned_and_controlled_by = ROOT
+						}
+					}
+					owner = {
+						has_idea = tribal_wasteland_nuclear
+					}
+				}
+			}
+		}
+	}
+}

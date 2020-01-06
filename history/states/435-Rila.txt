@@ -1,0 +1,21 @@
+state={
+	id=435
+	name="STATE_435"
+	provinces={
+		2923 4754 4813 4831 6143 6167 7778 9122 9188 10607 11166 11328
+	}
+	resources={
+		steel=8.000
+	}
+	state_category = city
+	history = {
+		owner = RSS
+		add_core_of = RSS
+		buildings = {
+			infrastructure = 0
+		}
+
+	}
+	manpower=1557009
+	buildings_max_level_factor=1.000
+}

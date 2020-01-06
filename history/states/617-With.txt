@@ -1,0 +1,18 @@
+state={
+	id=617
+	name="STATE_617"
+	provinces={
+		1377 4299 7374 8082 8114 9951 10021
+	}
+	state_category = city
+	history = {
+		owner = RIR
+		add_core_of = RIR
+		buildings = {
+			infrastructure = 1
+		}
+
+	}
+	manpower=1850469
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,21 @@
+
+state={
+	id=140
+	name="STATE_140"
+
+	history = {
+		owner = CHT
+		add_core_of = CHT
+		buildings = {
+			infrastructure = 1
+		}
+
+	}
+
+	provinces={
+		216 294 3089 6371 9164 9197 9796 10727 11068 13283
+	}
+	manpower=105350
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

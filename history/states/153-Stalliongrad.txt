@@ -1,0 +1,27 @@
+
+state={
+	id=153
+	name="STATE_153"
+
+	resources = {
+		steel = 15
+		aluminium = 5
+		tungsten = 3
+	}
+
+	history = {
+		owner = NPN
+		add_core_of = NPN
+		buildings = {
+			infrastructure = 1
+		}
+
+	}
+
+	provinces={
+		488 6423 6507 9419 9433
+	}
+	manpower=4125100
+	buildings_max_level_factor=2.000
+	state_category=metropolis
+}

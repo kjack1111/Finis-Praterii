@@ -1,0 +1,18 @@
+state={
+	id=677
+	name="STATE_677"
+	provinces={
+		6473 7969 9192 9337 10329 10523 10837 11321
+	}
+	history = {
+		owner = ACT
+		add_core_of = ACT
+		buildings = {
+			infrastructure = 1
+		}
+
+	}
+	manpower=9800
+	state_category=pastoral
+	buildings_max_level_factor=1.000
+}

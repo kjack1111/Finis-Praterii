@@ -1,0 +1,20 @@
+state={
+	id=83
+	name="STATE_83"
+	state_category = tiny_island
+
+	history = {
+		owner = THT
+		add_core_of = THT
+		buildings = {
+			infrastructure = 1
+		}
+
+	}
+
+	provinces={
+		6345
+	}
+	manpower=4420
+	buildings_max_level_factor=1.000
+}

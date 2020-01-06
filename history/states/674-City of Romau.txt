@@ -1,0 +1,18 @@
+state={
+	id=674
+	name="STATE_674"
+	provinces={
+		1027 4071
+	}
+	history = {
+		owner = HRZ
+		add_core_of = HRZ
+		buildings = {
+			infrastructure = 1
+		}
+
+	}
+	state_category = metropolis
+	manpower=2230000
+	buildings_max_level_factor=1.000
+}

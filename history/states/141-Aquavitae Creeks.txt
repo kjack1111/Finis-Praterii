@@ -1,0 +1,23 @@
+
+state={
+	id=141
+	name="STATE_141"
+	state_category = rural
+	resources={
+		crystals = 20
+	}
+	history = {
+		owner = NPN
+		add_core_of = NPN
+		buildings = {
+			infrastructure = 1
+		}
+
+	}
+
+	provinces={
+		71 496 3152 3194 6154 9212 9829 11127 11426
+	}
+	manpower=74061
+	buildings_max_level_factor=1.000
+}

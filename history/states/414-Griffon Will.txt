@@ -1,0 +1,21 @@
+
+state={
+	id=414
+	name="STATE_414"
+
+	history = {
+		owner = EVI
+		add_core_of = EVI
+		buildings = {
+			infrastructure = 1
+		}
+
+	}
+
+	provinces={
+		1010 1874 4325 4431 6999 7240 8095 10929
+	}
+	manpower=550536
+	buildings_max_level_factor=3.000
+	state_category=rural
+}

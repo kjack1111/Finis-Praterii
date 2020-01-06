@@ -1,0 +1,23 @@
+state={
+	id=70
+	name="STATE_70"
+	state_category = city
+	resources = {
+		steel=5
+		oil=10
+	}
+	history = {
+		owner = NPN
+		add_core_of = NPN
+		buildings = {
+			infrastructure = 1
+		}
+
+	}
+
+	provinces={
+		476 3526 4112 6055 6130 6550 6990 9481 9799 9818 9887 11778
+	}
+	manpower=1021800
+	buildings_max_level_factor=1.000
+}

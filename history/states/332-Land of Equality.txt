@@ -1,0 +1,24 @@
+
+state={
+	id=332
+	name="STATE_332"
+	resources={
+		steel=15.000
+	}
+
+	history = {
+		owner = NPN
+		add_core_of = NPN
+		buildings = {
+			infrastructure = 1
+		}
+
+	}
+
+	provinces={
+		119 196 3112 3186 6133 9133 9310 11192
+	}
+	manpower=283900
+	buildings_max_level_factor=1.000
+	state_category=town
+}

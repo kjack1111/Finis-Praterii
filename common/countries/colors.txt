@@ -1,0 +1,116 @@
+EVI = {
+  color = rgb { 64  64  32 }
+  color_ui = rgb { 128 128 96}
+}
+RIR = {
+  color = rgb { 64  64  32 }
+  color_ui = rgb { 128 128 96}
+}
+WHI = {
+  color = rgb { 64  64  32 }
+  color_ui = rgb { 128 128 96}
+}
+GPN = {
+  color = rgb { 64  64  32 }
+  color_ui = rgb { 128 128 96}
+}
+KTR = {
+  color = rgb { 64  64  32 }
+  color_ui = rgb { 128 128 96}
+}
+LKE = {
+  color = rgb { 64  64  32 }
+  color_ui = rgb { 128 128 96}
+}
+GMT = {
+  color = rgb { 64  64  32 }
+  color_ui = rgb { 128 128 96}
+}
+STH = {
+  color = rgb { 64  64  32 }
+  color_ui = rgb { 128 128 96}
+}
+AQT = {
+  color = rgb { 64  64  32 }
+  color_ui = rgb { 128 128 96}
+}
+HRZ = {
+  color = rgb { 64  64  32 }
+  color_ui = rgb { 128 128 96}
+}
+CLB = {
+  color = rgb { 64  64  32 }
+  color_ui = rgb { 128 128 96}
+}
+ACT = {
+  color = rgb { 64  64  32 }
+  color_ui = rgb { 128 128 96}
+}
+DRT = {
+  color = rgb { 64  64  32 }
+  color_ui = rgb { 128 128 96}
+}
+CHT = {
+  color = rgb { 64  64  32 }
+  color_ui = rgb { 128 128 96}
+}
+YKT = {
+  color = rgb { 64  64  32 }
+  color_ui = rgb { 128 128 96}
+}
+BFT = {
+  color = rgb { 64  64  32 }
+  color_ui = rgb { 128 128 96}
+}
+THT = {
+  color = rgb { 64  64  32 }
+  color_ui = rgb { 128 128 96}
+}
+UIT = {
+  color = rgb { 64  64  32 }
+  color_ui = rgb { 128 128 96}
+}
+EAT = {
+  color = rgb { 64  64  32 }
+  color_ui = rgb { 128 128 96}
+}
+PET = {
+  color = rgb { 64  64  32 }
+  color_ui = rgb { 128 128 96}
+}
+NPN = {
+  color = rgb {64 64 32}
+  color_ui = rgb {128 128 96}
+}
+GRS = {
+  color = rgb { 229 138 47 }
+  color_ui = rgb { 229 138 47 }
+}
+VDR = {
+  color = rgb { 87 164 113 }
+  color_ui = rgb { 87 164 113 }
+}
+TSG = {
+  color = rgb { 249 26 93 }
+  color_ui = rgb { 249 26 93 }
+}
+RSS = {
+  color = rgb {64 64 32}
+  color_ui = rgb {128 128 96}
+}
+SKY = {
+  color = rgb { 231 174 158 }
+  color_ui = rgb { 92 89 79 }
+}
+CNT = {
+  color = rgb { 124 198 240 }
+  color_ui = rgb { 124 198 240 }
+}
+ARK = {
+	color = rgb { 210 201 129 }
+	color_ui = rgb { 210 201 129 }
+}
+DRA = {
+  color = rgb { 196 195 164 }
+  color_ui = rgb { 181 180 164 }
+}

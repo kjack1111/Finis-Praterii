@@ -1,0 +1,18 @@
+state={
+	id=413
+	name="STATE_413"
+	provinces={
+		1064 1273 6177 10001 12269
+	}
+	state_category = city
+	history = {
+		owner = RIR
+		add_core_of = RIR
+		buildings = {
+			infrastructure = 1
+		}
+
+	}
+	manpower=789605
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,18 @@
+state={
+	id=328
+	name="STATE_328"
+	provinces={
+		3118
+	}
+	manpower=1040
+	state_category = tiny_island
+	history = {
+		owner = DRA
+		add_core_of = DRA
+		buildings = {
+			infrastructure = 1
+		}
+
+	}
+	buildings_max_level_factor=1.000
+}

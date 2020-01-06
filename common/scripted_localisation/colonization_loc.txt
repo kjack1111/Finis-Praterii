@@ -1,0 +1,7 @@
+defined_text = {
+	name = explain_colonization
+		text = {
+		trigger = { always = yes }
+		localization_key = COLONIZATION_EXPLANATION
+	}
+}

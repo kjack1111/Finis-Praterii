@@ -1,0 +1,23 @@
+
+state={
+	id=15
+	name="STATE_15"
+	resources={
+		steel=1.000
+	}
+
+	history = {
+		owner = THT
+		add_core_of = THT
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces={
+		538 586 673 3500 6501 6680 9441 9515 9524 9666 11404 11417 11620 11634
+	}
+	manpower=1111700
+	buildings_max_level_factor=1.000
+	state_category=town
+}

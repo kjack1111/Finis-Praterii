@@ -1,0 +1,21 @@
+
+state={
+	id=68
+	name="STATE_68"
+
+	history = {
+		owner = UIT
+		add_core_of = UIT
+		buildings = {
+			infrastructure = 1
+		}
+
+	}
+
+	provinces={
+		744 746 3743 3961 6666 6731 9548 9563 9603 9672 9909 11672
+	}
+	manpower=503100
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

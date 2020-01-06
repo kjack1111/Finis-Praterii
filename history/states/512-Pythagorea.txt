@@ -1,0 +1,24 @@
+
+state={
+	id=512
+	name="STATE_512"
+	resources={
+		rubber=20.000
+	}
+
+	history = {
+		owner = EVI
+		add_core_of = EVI
+		buildings = {
+			infrastructure = 1
+		}
+
+	}
+
+	provinces={
+		1381 1396 1423 2176 2196 5196 7238 7303 7331 7347 7376 7432 8182 8205 12133 12176 12260 12944 13173
+	}
+	manpower=1367009
+	buildings_max_level_factor=1.000
+	state_category=city
+}

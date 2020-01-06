@@ -1,0 +1,19 @@
+state={
+	id=344
+	name="STATE_344"
+	provinces={
+		489
+	}
+
+	history = {
+		owner = NPN
+		add_core_of = NPN
+		buildings = {
+			infrastructure = 1
+		}
+
+	}
+	manpower=3300667
+	state_category = megalopolis
+	buildings_max_level_factor=1.000
+}

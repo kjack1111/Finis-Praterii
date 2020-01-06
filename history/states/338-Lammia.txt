@@ -1,0 +1,25 @@
+
+state={
+	id=338
+	name="STATE_338"
+	resources={
+		tungsten=10.000
+		chromium=3.000
+	}
+
+	history = {
+		owner = ACT
+		add_core_of = ACT
+		buildings = {
+			infrastructure = 1
+		}
+
+	}
+
+	provinces={
+		128 203 1578 1634 9128 9191 11169
+	}
+	manpower=185800
+	buildings_max_level_factor=1.000
+	state_category=town
+}

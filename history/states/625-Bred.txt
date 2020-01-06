@@ -1,0 +1,21 @@
+
+state={
+	id=625
+	name="STATE_625"
+
+	history = {
+		owner = RIR
+		add_core_of = RIR
+		buildings = {
+			infrastructure = 1
+		}
+
+	}
+
+	provinces={
+		1059 1444 1977 2003 2046 4104 4516 4544 4571 4910 10844 10902 12452 12796 12836
+	}
+	manpower=256789
+	buildings_max_level_factor=1.000
+	state_category=town
+}

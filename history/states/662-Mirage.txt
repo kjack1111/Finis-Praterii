@@ -1,0 +1,18 @@
+state={
+	id=662
+	name="STATE_662"
+	provinces={
+		1614 2065 7602 7618 8099 12333
+	}
+	state_category = rural
+	history = {
+		owner = NPN
+		add_core_of = NPN
+		buildings = {
+			infrastructure = 1
+		}
+
+	}
+	manpower=76000
+	buildings_max_level_factor=1.000
+}

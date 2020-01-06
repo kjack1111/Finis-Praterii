@@ -1,0 +1,20 @@
+state={
+	id=148
+	name="STATE_148"
+	state_category = rural
+
+	history = {
+		owner = NPN
+		add_core_of = NPN
+		buildings = {
+			infrastructure = 1
+		}
+
+	}
+
+	provinces={
+		32 169 3203 6232
+	}
+	manpower=56420
+	buildings_max_level_factor=1.000
+}

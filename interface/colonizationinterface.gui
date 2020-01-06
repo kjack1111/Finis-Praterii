@@ -1,0 +1,15 @@
+guiTypes = {
+	containerWindowType = {
+		name = "colonization_interface"
+		position = { x = 0 y = 0 }
+		size = { width = 110 height = 67 }
+		
+		buttonType {
+			name = "colonize_state"
+			spriteType = "GFX_colonize_button"
+			position = { x = 26 y = 324 }
+			PDX_tooltip = COLONIZATION_ENABLED
+		}
+	}
+}
+

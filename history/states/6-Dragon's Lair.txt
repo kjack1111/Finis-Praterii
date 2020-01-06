@@ -1,0 +1,20 @@
+state={
+	id=6
+	name="STATE_6"
+	state_category = rural
+
+	history = {
+		owner = DRA
+		add_core_of = DRA
+		buildings = {
+			infrastructure = 0
+		}
+	}
+
+
+	provinces={
+		724 1102 1619 4139 6921 9817 11675 11840 11843 12087
+	}
+	manpower=1300
+	buildings_max_level_factor=1.000
+}

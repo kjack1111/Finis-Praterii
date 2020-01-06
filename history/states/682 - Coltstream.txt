@@ -1,0 +1,19 @@
+
+state={
+	id=682
+	name="STATE_682"
+	history = {
+		owner = RIR
+		add_core_of = RIR
+		buildings = {
+			infrastructure = 1
+		}
+
+	}
+	provinces={
+		4559 4937 5002 8023
+	}
+	manpower=329300
+	state_category=large_town
+	buildings_max_level_factor=1.000
+}
