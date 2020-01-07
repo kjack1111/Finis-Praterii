@@ -52,9 +52,9 @@ army_experience = 0
 set_stability = 0.0
 
 create_country_leader = {
-	name = "Disperse Tribal Rule"
-	desc = "DISPERSE_TRIBAL_RULE_DESC"
-	picture = "gfx/leaders/tribal/Decentralized.tga"
+	name = "Governor Rhea"
+	desc = "GOVERNOR_RHEA_DESCRIPTION"
+	picture = "gfx/leaders/startingthirdworld/GovernorRhea.tga"
 	expire = "1965.1.1"
 	ideology = borean_system
 	traits = {

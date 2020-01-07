@@ -50,9 +50,9 @@ set_stability = 0.0
 set_variable = { var = peasant_anger value = 0 }
 
 create_country_leader = {
-	name = "Aquilean Tribal Council"
-	desc = "AQUILEAN_COUNCIL_DESC"
-	picture = "gfx/leaders/tribal/aquileancouncil.tga"
+	name = "Council of Rilan Syndicates"
+	desc = "RILAN_COUNCIL_DESC"
+	picture = "gfx/leaders/remnant/rilanCouncil.tga"
 	expire = "1965.1.1"
 	ideology = reconstructionist_system
 	traits = {

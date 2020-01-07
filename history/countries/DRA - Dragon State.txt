@@ -52,9 +52,9 @@ army_experience = 0
 set_stability = 0.0
 
 create_country_leader = {
-	name = "Disperse Tribal Rule"
+	name = "Draconic Council"
 	desc = "DISPERSE_TRIBAL_RULE_DESC"
-	picture = "gfx/leaders/tribal/Decentralized.tga"
+	picture = "gfx/leaders/remnant/DraconicCouncil.tga"
 	expire = "1965.1.1"
 	ideology = reconstructionist_system
 	traits = {

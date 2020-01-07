@@ -95,8 +95,8 @@ TSG = {
   color_ui = rgb { 249 26 93 }
 }
 RSS = {
-  color = rgb {64 64 32}
-  color_ui = rgb {128 128 96}
+  color = rgb {201 40 12}
+  color_ui = rgb {232, 85, 60}
 }
 SKY = {
   color = rgb { 231 174 158 }
