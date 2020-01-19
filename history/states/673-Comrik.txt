@@ -12,7 +12,7 @@ state={
 
 	}
 	resources={
-		steel=7
+		scrap=7
 	}
 	provinces={
 		4636 7597 7903 8007 10843 12397 12781

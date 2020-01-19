@@ -5,7 +5,7 @@ state={
 		531 1828 7397 9142 10536 10635 12615 12643 12797
 	}
 	resources={
-		steel=8.000
+		scrap=8.000
 	}
 	state_category=town
 	manpower=445007

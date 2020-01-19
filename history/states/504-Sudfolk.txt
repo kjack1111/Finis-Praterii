@@ -3,7 +3,7 @@ state={
 	name="STATE_504"
 	state_category = town
 	resources={
-		rubber=12.000
+		polymers=12.000
 	}
 	provinces={
 		1359 1412 4202 4291 4395 4414 5104 7232 7310 7411 8100 10210 10259 10324 12142 12295

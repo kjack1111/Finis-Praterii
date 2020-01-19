@@ -5,8 +5,8 @@ state={
 		1770 10666 11788 12646
 	}
 	resources={
-		steel = 10
-		aluminium = 3
+		scrap = 10
+		light_scrap = 3
 	}
 	history = {
 		owner = NPN

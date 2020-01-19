@@ -6,9 +6,9 @@ state={
 	}
 	state_category = wasteland
 	resources={
-		crystals=12.000
-		steel=6.000
-		aluminium=10.000
+		crystalline_scrap=12.000
+		scrap=6.000
+		light_scrap=10.000
 	}
 	history = {
 		owner = WHI

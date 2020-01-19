@@ -3,8 +3,8 @@ state={
 	id=646
 	name="STATE_646"
 	resources={
-		steel=5.000
-		aluminium=2.000
+		scrap=5.000
+		light_scrap=2.000
 	}
 	state_category = town
 	history = {

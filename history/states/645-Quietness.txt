@@ -4,7 +4,7 @@ state={
 	name="STATE_645"
 	state_category = large_city
 	resources={
-		steel=12.000
+		scrap=12.000
 	}
 	history = {
 		owner = RIR

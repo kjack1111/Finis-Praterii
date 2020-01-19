@@ -6,7 +6,7 @@ state={
 		73 175 3066 6089 6333 9050 11422
 	}
 	resources = {
-		aluminium = 10
+		light_scrap = 10
 	}
 	history = {
 		owner = YKT

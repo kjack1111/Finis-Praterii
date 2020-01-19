@@ -3,7 +3,7 @@ state={
 	name="STATE_111"
 	state_category = pastoral
 
-	resources = { steel = 10 }
+	resources = { scrap = 10 }
 	history = {
 		owner = BFT
 		add_core_of = BFT

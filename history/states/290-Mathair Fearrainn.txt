@@ -17,8 +17,8 @@ state={
 	}
 	manpower=1188662
 	resources = {
-		steel = 10
-		tungsten = 4
+		scrap = 10
+		heavy_scrap = 4
 	}
 
 	state_category = town

@@ -12,8 +12,8 @@ state={
 
 	}
 	resources={
-		chromium=16.000
-		steel=12.000
+		machinery=16.000
+		scrap=12.000
 	}
 	state_category = town
 	provinces={

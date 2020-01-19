@@ -5,10 +5,10 @@ state={
 		1029 1076 1121 1158 7200 9956 11973 12055 13144
 	}
 	resources={
-		crystals=42.000
-		steel=18.000
-		chromium=12.000
-		tungsten=10.000
+		crystalline_scrap=42.000
+		scrap=18.000
+		machinery=12.000
+		heavy_scrap=10.000
 	}
 	state_category = city
 	history = {

@@ -6,7 +6,7 @@ state={
 		1541 1983 2096 4386 4459 4987 7064 7334 8008 10361 10877 10878 10976 12838
 	}
 	resources={
-		crystals=6.000
+		crystalline_scrap=6.000
 	}
 	state_category = rural
 	history = {

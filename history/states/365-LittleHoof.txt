@@ -6,8 +6,8 @@ state={
 		3916 5005 5098 6826 7953 10774 12773
 	}
 	resources={
-		steel=6.000
-		tungsten =10.000
+		scrap=6.000
+		heavy_scrap =10.000
 	}
 
 	history = {

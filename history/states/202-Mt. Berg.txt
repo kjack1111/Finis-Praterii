@@ -3,7 +3,7 @@ state={
 	name="STATE_202"
 	state_category = wasteland
 	resources = {
-		tungsten=24
+		heavy_scrap=24
 	}
 
 	history = {

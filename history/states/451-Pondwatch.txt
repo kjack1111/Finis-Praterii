@@ -5,9 +5,9 @@ state={
 		990 1092 1167 1191 3134 4197 7050 7145 7212 10052 10055 11985 12031
 	}
 	resources={
-		tungsten=4.000
-		steel=8.000
-		chromium=6.000
+		heavy_scrap=4.000
+		scrap=8.000
+		machinery=6.000
 	}
 	state_category = pastoral
 	history = {

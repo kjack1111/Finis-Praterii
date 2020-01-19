@@ -12,8 +12,8 @@ state={
 
 	}
 	resources={
-		steel=8.000
-		chromium=2.000
+		scrap=8.000
+		machinery=2.000
 	}
 	manpower=3456641
 	provinces={

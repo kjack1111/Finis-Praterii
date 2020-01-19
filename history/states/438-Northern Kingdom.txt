@@ -6,7 +6,7 @@ state={
 	}
 	state_category = town
 	resources={
-		chromium=5.000
+		machinery=5.000
 	}
 	history = {
 		owner = RIR

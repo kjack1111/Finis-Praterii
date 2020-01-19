@@ -5,9 +5,9 @@ state={
 		4883 4995 5079 8062 8133 10801 12799 12854 13227
 	}
 	resources={
-		tungsten=5.000
-		steel=4.000
-		aluminium=5.000
+		heavy_scrap=5.000
+		scrap=4.000
+		light_scrap=5.000
 	}
 	state_category = rural
 	history = {

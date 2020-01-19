@@ -3,7 +3,7 @@ state={
 	name="STATE_55"
 	state_category = wasteland
 	resources={
-		crystals = 50
+		crystalline_scrap = 50
 	}
 	history = {
 		owner = YKT

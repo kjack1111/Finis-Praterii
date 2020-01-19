@@ -3,7 +3,7 @@ state={
 	id=238
 	name="STATE_238"
 	resources={
-		crystals=3.000
+		crystalline_scrap=3.000
 	}
 
 	history = {

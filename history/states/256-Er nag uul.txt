@@ -7,7 +7,7 @@ state={
 	}
 	manpower=203118
 	resources={
-		crystals = 6
+		crystalline_scrap = 6
 	}
 	history = {
 		owner = YKT

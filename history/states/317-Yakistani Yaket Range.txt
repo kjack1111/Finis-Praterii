@@ -14,7 +14,7 @@ state={
 
 	}
 	resources={
-		crystals = 28
+		crystalline_scrap = 28
 	}
 	state_category = wasteland
 	buildings_max_level_factor=1.000

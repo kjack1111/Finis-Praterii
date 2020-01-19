@@ -5,9 +5,9 @@ state={
 		1838 4164 4704 4788 4843 7732 7808 7884 10614 10839 12524 12598 12656 12671 13090
 	}
 	resources={
-		tungsten=8.000
-		steel=16.000
-		crystals=28.000
+		heavy_scrap=8.000
+		scrap=16.000
+		crystalline_scrap=28.000
 	}
 	state_category = town
 	history = {

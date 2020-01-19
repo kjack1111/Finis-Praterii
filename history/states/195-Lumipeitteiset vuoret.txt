@@ -3,9 +3,9 @@ state={
 	id=195
 	name="STATE_195"
 	resources={
-		aluminium=36.000
-		chromium=30.000
-		steel=12.000
+		light_scrap=36.000
+		machinery=30.000
+		scrap=12.000
 	}
 
 	history = {

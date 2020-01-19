@@ -4,9 +4,9 @@ state={
 	name="STATE_465"
 	state_category = pastoral
 	resources={
-		tungsten=12.000
-		aluminium=12.000
-		steel=16.000
+		heavy_scrap=12.000
+		light_scrap=12.000
+		scrap=16.000
 	}
 	history = {
 		owner = STH

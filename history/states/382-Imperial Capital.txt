@@ -2,9 +2,9 @@ state={
 	id=382
 	name="STATE_382"
 	resources={
-		tungsten=10.000
-		steel=10.000
-		chromium=7.000
+		heavy_scrap=10.000
+		scrap=10.000
+		machinery=7.000
 	}
 	state_category = metropolis
 	provinces={

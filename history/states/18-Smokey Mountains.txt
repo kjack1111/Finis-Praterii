@@ -3,7 +3,7 @@ state={
 	name="STATE_18"
 	state_category = rural
 
-	resources = { steel=3 }
+	resources = { scrap=3 }
 
 	history = {
 		owner = PET

@@ -3,9 +3,9 @@ state={
 	id=57
 	name="STATE_57"
 	resources={
-		tungsten=8.000
-		crystals=5.000
-		steel=3.000
+		heavy_scrap=8.000
+		crystalline_scrap=5.000
+		scrap=3.000
 	}
 
 	history = {

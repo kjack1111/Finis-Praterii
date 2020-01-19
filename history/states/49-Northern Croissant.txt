@@ -4,9 +4,9 @@ state={
 	name="STATE_49"
 	state_category = town
 	resources = {
-		chromium = 18
+		machinery = 18
 		oil = 6
-		steel = 5
+		scrap = 5
 	}
 
 	history = {

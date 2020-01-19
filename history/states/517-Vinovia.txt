@@ -12,8 +12,8 @@ state={
 
 	}
 	resources={
-		chromium=12.000
-		steel=8.000
+		machinery=12.000
+		scrap=8.000
 	}
 	state_category = large_town
 

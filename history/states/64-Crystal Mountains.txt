@@ -3,10 +3,10 @@ state={
 	id=64
 	name="STATE_64"
 	resources={
-		tungsten=64.000
-		aluminium = 4
-		steel=30.000
-		crystals = 5
+		heavy_scrap=64.000
+		light_scrap = 4
+		scrap=30.000
+		crystalline_scrap = 5
 	}
 
 	history = {

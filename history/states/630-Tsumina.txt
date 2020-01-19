@@ -2,9 +2,9 @@ state={
 	id=630
 	name="STATE_630"
 	resources={
-		steel=5.000
-		tungsten=2.000
-		aluminium=7.000
+		scrap=5.000
+		heavy_scrap=2.000
+		light_scrap=7.000
 	}
 	state_category = pastoral
 	provinces={

@@ -2,7 +2,7 @@ state={
 	id=535
 	name="STATE_535"
 	resources={
-		crystals=12.000
+		crystalline_scrap=12.000
 	}
 	state_category = pastoral
 	provinces={

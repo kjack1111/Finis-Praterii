@@ -10,9 +10,9 @@ state={
 
 	}
 	resources={
-		crystals = 4
-		steel = 3
-		aluminium = 3
+		crystalline_scrap = 4
+		scrap = 3
+		light_scrap = 3
 	}
 	state_category = rural
 	provinces={

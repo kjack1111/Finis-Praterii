@@ -6,8 +6,8 @@ state={
 		2 1765 1795 1835 1976 2006 3124 4295 4840 7256 7722 8049 10626 11107 11213 12027 12156 12320 12580 13123
 	}
 	resources={
-		steel=8.000
-		aluminium=8.000
+		scrap=8.000
+		light_scrap=8.000
 	}
 	state_category = town
 	history = {
